@@ -29,11 +29,11 @@ $(call inherit-product, device/motorola/guamp/device.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := guamp
+PRODUCT_RELEASE_NAME := caprip
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := guamp
-PRODUCT_NAME := twrp_guamp
+PRODUCT_DEVICE := caprip
+PRODUCT_NAME := twrp_caprip
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := moto g(9)
+PRODUCT_MODEL := moto g(30)
 PRODUCT_MANUFACTURER := motorola
